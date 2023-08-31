@@ -22,7 +22,7 @@ http://localhost:3000/docs
 ```
 
 ## Insomnia
-O arquivo Insominia.json na raiz do projeto serve para importar no programa Insominia. Nele constam todos os endpoints desenvolvido para uma melhor navegação.
+O arquivo Insomnia.json na raiz do projeto serve para importar no programa Insomnia. Nele constam todos os endpoints desenvolvido para uma melhor navegação.
 
 ## Agradecimento
 **Agradeço a oportunidade e espero que gostem do que irão ver.**
